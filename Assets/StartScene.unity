@@ -19963,7 +19963,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Soutenance 18/10/2022
+  m_text: Soutenance 24/10/2022
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4f372c329adda324b8e34cc0e26c4cff, type: 2}
   m_sharedMaterial: {fileID: 21509031896957856, guid: 4f372c329adda324b8e34cc0e26c4cff,
@@ -19991,7 +19991,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 62.6
+  m_fontSize: 61.55
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
